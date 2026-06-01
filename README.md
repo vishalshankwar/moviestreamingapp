@@ -1,2 +1,2 @@
 # moviestreamingapp
-i wans used in exoplayer, youtube library ,mvvm architecture ,room ,kotlin and xml 
+i was used in TMDB ,exoplayer, youtube library ,mvvm architecture ,room ,kotlin and xml 
