@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MovieStreamApp</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="movie_rating_format">Rating %.1f</string>
+    <string name="no_movies_found">No movies found. Try another search.</string>
+    <string name="retry">Retry</string>
+    <string name="back">Back</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="overview">Overview</string>
+    <string name="similar_movies">Similar Movies</string>
+    <string name="runtime_format">%d minutes</string>
+    <string name="unknown_runtime">Runtime unavailable</string>
+    <string name="unknown_release_date">Release date unavailable</string>
+    <string name="unknown_genres">Genres unavailable</string>
+    <string name="search_movies">Search movies</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="video_player">Video Player</string>
+    <string name="buffering">Buffering...</string>
+    <string name="player_error">Unable to play video</string>
+    <string name="add_favorite">Add to favourites</string>
+    <string name="remove_favorite">Remove from favourites</string>
+</resources>
